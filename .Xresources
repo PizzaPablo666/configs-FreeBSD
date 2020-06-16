@@ -1,0 +1,23 @@
+XTerm*cursorColor:	green
+XTerm*multiScroll:	on
+XTerm*jumpScroll:	on
+XTerm*reverseWrap:	on
+XTerm*curses:	on
+XTerm*scrollBar:	on
+XTerm*scrollBar*thickness:	5
+XTerm*multiClickTime:	500
+XTerm*charClass:	33:48,37:48,45-
+XTerm*cutNewline:	off
+XTerm*cutToBeginningOfLine:	off
+XTerm*titeInhibit:	on
+XTerm*ttyModes:	intr ^c erase ^?
+XTerm*background:	black
+xterm*foreground:	lightgray
+xterm*VT100*geometry:	55x20
+xterm*loginshell:	true
+xterm*savelines:	4096
+xterm*metasendsescape:	true
+xterm*utf8title:	true
+xterm*boldfont:	true
+xterm*faceName:	Monospace
+xterm*faceSize:	10
